@@ -1,1 +1,1 @@
-# Django_my_love_project
+# Django_Rest_Framework
